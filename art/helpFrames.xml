@@ -1,0 +1,7 @@
+<FrameSet name="HelpFrameSet">
+
+	<Texture name="art/help.png">
+		<Frame name="help" x="0" y="0" w="512" h="512" xo="256" yo= "256"/>
+	</Texture>
+
+</FrameSet>

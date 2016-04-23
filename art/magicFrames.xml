@@ -1,0 +1,11 @@
+<FrameSet name="TestFrameSet">
+
+	<Texture name="art/magic.png">
+		<Frame name="fireMagic" x="0" y="0" w="32" h="32" xo="16" yo= "16"/>
+		<Frame name="earthMagic" x="32" y="0" w="32" h="32" xo="16" yo= "16"/>
+		<Frame name="waterMagic" x="64" y="0" w="32" h="32" xo="16" yo= "16"/>
+		<Frame name="genericMagic" x="96" y="0" w="32" h="32" xo="16" yo= "16"/>
+		<Frame name="lightningMagic" x="0" y="32" w="32" h="32" xo="16" yo= "16"/>
+	</Texture>
+
+</FrameSet>

@@ -1,0 +1,38 @@
+<AnimSet name="WizardAnimSet">
+
+	<Animation name="idle">
+		<f f="stand" t="1" />
+	</Animation>
+
+	<Animation name="walk">
+		<f f="step1" t=".2" />
+		<f f="stand" t=".2" />
+		<f f="step2" t=".2" />
+		<f f="stand" t=".2" />
+	</Animation>
+
+	<Animation name="die">
+		<f f="die1" t=".5" />
+		<f f="die2" t=".5" />
+		<f f="die3" t="1" />
+	</Animation>
+
+	<Animation name="dead">
+		<f f="die3" t="1" />
+	</Animation>
+
+	<Animation name="celebrate">
+		<f f="celebrate" t="1.5" />
+		<f f="stand" t="1" />
+		<f f="celebrate" t="1.5" />
+		<f f="stand" t="2" />
+		<f f="celebrate" t="4" />
+
+	</Animation>
+
+	<Animation name="hit">
+		<f f="hit" t=".5" />
+	</Animation>
+
+
+</AnimSet>

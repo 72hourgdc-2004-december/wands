@@ -1,0 +1,14 @@
+<FrameSet name="TestFrameSet">
+
+	<Texture name="art/icons.png">
+		<Frame name="fireIcon" x="0" y="0" w="160" h="160" xo="80" yo= "80"/>
+		<Frame name="waterIcon" x="0" y="160" w="160" h="160" xo="80" yo= "80"/>
+		<Frame name="earthIcon" x="160" y="0" w="160" h="160" xo="80" yo= "80"/>
+		<Frame name="electricIcon" x="160" y="160" w="160" h="160" xo="80" yo= "80"/>
+		<Frame name="healthIcon" x="0" y="320" w="160" h="160" xo="80" yo= "80"/>
+		<Frame name="manaIcon" x="160" y="320" w="160" h="160" xo="80" yo= "80"/>		
+		<Frame name="wand" x="343" y="5" w="26" h="185" xo="12" yo= "17"/>
+
+	</Texture>
+	
+</FrameSet>

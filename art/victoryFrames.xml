@@ -1,0 +1,5 @@
+<FrameSet name="VictoryFrameSet">
+	<Texture name="art/victory.png">
+		<Frame name="victory" x="0" y="0" w="420" h="182" xo="210" yo="100"/>
+	</Texture>
+</FrameSet>

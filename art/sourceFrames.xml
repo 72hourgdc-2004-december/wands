@@ -1,0 +1,38 @@
+<FrameSet name="SpellSourceFrameSet">
+
+	<Texture name="art/sources.png">
+		<Frame name="fire1" x="0" y="0" w="70" h="86" xo="36" yo= "84"/>
+		<Frame name="fire2" x="80" y="0" w="80" h="86" xo="35" yo= "84"/>
+		<Frame name="fire3" x="160" y="0" w="80" h="86" xo="24" yo= "84"/>
+		<Frame name="fire4" x="240" y="0" w="50" h="86" xo="16" yo= "84"/>
+		<Frame name="fire5" x="290" y="0" w="60" h="86" xo="26" yo= "84"/>
+		<Frame name="fire6" x="350" y="0" w="60" h="86" xo="23" yo= "84"/>
+		<Frame name="fire7" x="410" y="0" w="70" h="86" xo="29" yo= "84"/>
+
+		<Frame name="water1" x="0" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water2" x="50" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water3" x="100" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water4" x="150" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water5" x="200" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water6" x="250" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water7" x="300" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water8" x="350" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water9" x="400" y="90" w="50" h="60" xo="24" yo= "56"/>
+		<Frame name="water10" x="450" y="90" w="50" h="60" xo="24" yo= "56"/>
+
+		<Frame name="earth1" x="0" y="150" w="80" h="80" xo="40" yo= "71"/>
+		<Frame name="earth2" x="80" y="150" w="60" h="100" xo="38" yo= "86"/>
+
+		<Frame name="elec1" x="0" y="250" w="90" h="80" xo="37" yo= "68"/>
+		<Frame name="elec2" x="90" y="250" w="90" h="80" xo="37" yo= "68"/>
+		<Frame name="elec3" x="180" y="250" w="90" h="80" xo="37" yo= "68"/>
+		<Frame name="elec4" x="270" y="250" w="90" h="80" xo="37" yo= "68"/>
+		<Frame name="elec5" x="360" y="250" w="90" h="80" xo="37" yo= "68"/>
+		
+		<Frame name="elec6" x="0" y="330" w="90" h="80" xo="37" yo= "68"/>
+		<Frame name="elec7" x="90" y="330" w="90" h="80" xo="37" yo= "68"/>
+
+
+	</Texture>
+
+</FrameSet>

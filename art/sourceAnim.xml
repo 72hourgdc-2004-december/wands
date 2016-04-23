@@ -1,0 +1,47 @@
+<AnimSet name="SourceAnimSet">
+
+	<Animation name="fire">
+		<f f="fire1" t=".05" />
+		<f f="fire2" t=".05" />
+		<f f="fire3" t=".05" />
+		<f f="fire4" t=".05" />
+		<f f="fire5" t=".05" />
+		<f f="fire6" t=".05" />
+		<f f="fire7" t=".05" />
+	</Animation>
+
+	<Animation name="water">
+		<f f="water1" t="3" />
+		<f f="water2" t=".07" />
+		<f f="water3" t=".07" />
+		<f f="water4" t=".07" />
+		<f f="water5" t=".07" />
+		<f f="water6" t=".07" />
+		<f f="water7" t=".07" />
+		<f f="water8" t=".07" />
+		<f f="water9" t=".07" />
+		<f f="water10" t=".07" />
+	</Animation>
+
+
+	<Animation name="earth1">
+		<f f="earth1" t="1" />
+	</Animation>
+
+	<Animation name="earth2">
+		<f f="earth2" t="1" />
+	</Animation>
+
+
+	<Animation name="elec">
+		<f f="elec1" t="4" />
+		<f f="elec2" t=".06" />
+		<f f="elec3" t=".06" />
+		<f f="elec4" t=".06" />
+		<f f="elec5" t=".06" />
+		<f f="elec6" t=".06" />
+		<f f="elec7" t=".06" />
+	</Animation>
+
+
+</AnimSet>

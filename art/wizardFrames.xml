@@ -1,0 +1,16 @@
+<FrameSet name="TestFrameSet">
+
+	<Texture name="art/wizard.png">
+		<Frame name="stand" x="0" y="0" w="90" h="128" xo="63" yo= "116"/>
+		<Frame name="arm" x="100" y="0" w="15" h="75" xo="6" yo= "8"/>
+		<Frame name="step1" x="130" y="0" w="90" h="121" xo="45" yo= "119"/>
+		<Frame name="step2" x="220" y="0" w="81" h="121" xo="50" yo= "119"/>
+		<Frame name="hit" x="310" y="0" w="113" h="121" xo="46" yo= "125"/>
+		<Frame name="die1" x="0" y="140" w="110" h="100" xo="59" yo= "98"/>
+		<Frame name="die2" x="110" y="140" w="111" h="121" xo="51" yo= "98"/>
+		<Frame name="die3" x="230" y="190" w="130" h="50" xo="40" yo= "47"/>
+		<Frame name="celebrate" x="370" y="120" w="85" h="121" xo="46" yo= "118"/>
+		
+	</Texture>
+
+</FrameSet>
